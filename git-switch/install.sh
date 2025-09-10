@@ -1,6 +1,5 @@
 # Download the script
-curl -O https://raw.githubusercontent.com/[your-repo]/git-user-switch.py
-# Or just save the file above as git-user-switch.py
+curl -O https://raw.githubusercontent.com/sean-kuzco-tooling/git-switch/git-user-script.py
 
 # Make it executable
 chmod +x git-user-script.py
